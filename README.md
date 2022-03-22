@@ -8,4 +8,4 @@
 - 💬 Ask me about anything
 - 📫 How to reach me [here](https://www.linkedin.com/in/valentina-bacherer-eberhard/)
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love sleeping on the floor without a mattress (Feldenkrais woman😸)
+- ⚡ Fun fact: I love sleeping on the floor (Feldenkrais woman😸)
