@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on cool startup projects with React, Typescript and GraphQL
 - 👩🏻‍🏫 I'm currently teaching Javascript, Design Systems, Algorithms and Data Structures
-- 🌱 I’m currently learning TDD
+- 🌱 I love TDD
 - 👯 I’m looking to collaborate on empowering latin women in tech
 - 🤔 I’m looking for help with TDD best practices
 - 💬 Ask me about anything
